@@ -36,6 +36,8 @@ GEM
     dotenv (2.2.1)
     erubis (2.7.0)
     execjs (2.7.0)
+    faker (1.8.7)
+      i18n (>= 0.7)
     fast_blank (1.0.0)
     fastimage (2.1.1)
     ffi (1.9.18)
@@ -137,6 +139,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-sass
+  faker
   font-awesome-middleman
   jquery-middleman
   middleman (~> 4.2)
